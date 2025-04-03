@@ -1,0 +1,13 @@
+baseURL = 'https://koalacoaching.com/'
+languageCode = 'en-us'
+title = 'koalacoaching.com'
+
+theme = 'ceres'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[taxonomies]
+  category = ''
+  tags = ''
